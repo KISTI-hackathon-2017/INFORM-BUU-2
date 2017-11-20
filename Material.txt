@@ -1,0 +1,6 @@
+1.Use Power bi to Show Interface
+2.Use Rstudio to calculate the correlation between data (No2, So2, PM10) and values. 
+3.Use Python to query database and plot graphs.
+1.ใช้ power bi ในการแสดง
+2.ใช้ Rstudio ในคำนวณค่าความสัมพันธ์ระหว่างข้อมูล (No2 , So2 , PM10) และ คำนวณค่าต่างๆ
+3.ใช้ Python ในการดึงข้อมูลและ plot กราฟข้อมูล
